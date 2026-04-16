@@ -37,20 +37,19 @@ module.exports = {
     // ==========================================
     PREFIX: process.env.PREFIX || ".",
     MODE: process.env.MODE || "public",
-    BOT_NAME: process.env.BOT_NAME || "𝐏𝐎𝐏𝐊𝐈𝐃 𝐌𝐃",
-    OWNER_NAME: process.env.OWNER_NAME || "𝐏𝐎𝐏𝐊𝐈𝐃",
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "254732297194",
-    DEV: process.env.DEV || "254732297194",
+    BOT_NAME: process.env.BOT_NAME || "ICRAHM 𝐌𝐃    OWNER_NAME: process.env.OWNER_NAME || "ICRAHM",
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "254117061862",
+    DEV: process.env.DEV || "254117061862",
     
     // ==========================================
     // 🎨 UI & AUTOMATION
     // ==========================================
     AUTO_BIO: process.env.AUTO_BIO || "true",
     TIME_ZONE: process.env.TIME_ZONE || "Africa/Nairobi", 
-    MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/aapw1p.png",
-    ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/aapw1p.png",
-    DESCRIPTION: process.env.DESCRIPTION || "*𝙿𝙾𝙿𝙺𝙸𝙳 𝚇𝙼𝙳 𝙱𝙾𝚃😇*",
-    LIVE_MSG: process.env.LIVE_MSG || "> 𝐏𝐎𝐏𝐊𝐈𝐃 𝐌𝐃 𝐁𝐎𝐓😇",
+    MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://i.ibb.co/7xbz8jRr/a66c659b4c10.jpg",
+    ALIVE_IMG: process.env.ALIVE_IMG || "https://i.ibb.co/spswdL2j/6d0c5603b684.jpg",
+    DESCRIPTION: process.env.DESCRIPTION || "*ICRAHM 𝚇𝙼𝙳 ICRAHM MD🤖*",
+    LIVE_MSG: process.env.LIVE_MSG "ICRAHM 𝐁𝐎𝐓🤖",
     AUTO_TYPING: process.env.AUTO_TYPING || "true",
     AUTO_RECORDING: process.env.AUTO_RECORDING || "false",
     
