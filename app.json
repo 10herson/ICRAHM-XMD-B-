@@ -1,8 +1,8 @@
 {
-  "name": "POPKID-XTR",
+  "name": "ICRAHM-XTR",
   "description": "WhatsApp bot made by Popkid from Kenya",
   "logo": "https://files.catbox.moe/kiy0hl.jpg",
-  "keywords": ["POPKID-XTR"],
+  "keywords": ["ICRAHM-XTR"],
   "success_url": "/",
   "stack": "heroku-24",
   "env": {
@@ -59,7 +59,7 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": ".𝗦𝗘𝗘𝗡 𝗬𝗢𝗨𝗥 𝗦𝗧𝗔𝗧𝗨𝗦 𝗕𝗬 𝗣𝗢𝗣𝗞𝗜𝗗 𝗫𝗧𝗥🔄"
+      "value": ".𝗦𝗘𝗘𝗡 𝗬𝗢𝗨𝗥 𝗦𝗧𝗔𝗧𝗨𝗦 𝗕𝗬 ICRAHM 𝗫𝗧𝗥𝗞𝗜𝗗𝗞𝗜𝗗𝗞𝗜𝗗🔄"
      }, 
     "ANTI_DELETE": {
       "description": "Enable Anti-Delete to recover deleted messages.",
@@ -79,12 +79,12 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "254732297194"
+      "value": "254117061862"
     }, 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": true,
-      "value": "POPKID-XD"
+      "value": "ICRAHM-XD"
     }, 
     "ANTI_LINK": {
       "description": "Make it true if you want bot auto remove group link.",
@@ -99,7 +99,7 @@
     "MENU_IMAGE_URL": {
       "description": "add url for menu.",
       "required": true,
-      "value": "https://files.catbox.moe/kiy0hl.jpg"
+      "value": "https://i.ibb.co/7xbz8jRr/a66c659b4c10.jpg"
     },
     "AUTO_REACT": {
       "description": "Make it true if you want react on every message.",
